@@ -1,7 +1,7 @@
 # Portfolio Website Deployement on Microsoft AZURE  
 This my portfolio website deployed on Microsoft azure
 Azure Project link :-
-https://blue-ground-0e6638410.3.azurestaticapps.net
+https://tohidhanfi.cloud
 Project Demo video Link:-
 https://youtu.be/bxfstsBvj6w
 
