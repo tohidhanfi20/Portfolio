@@ -1,7 +1,7 @@
 <?php
   $receiving_email_address = 'tohdhanfi20@gmail.com';
 
-  if( file_exists($php_email_form = 'C:\Users\ASUS\Downloads\iPortfolio\iPortfolio\assets\vendor\php-email-form\validate.js' )) {
+  if( file_exists($php_email_form = 'https://github.com/tohidhanfi20/Portfolio/blob/master/assets/vendor/php-email-form/validate.js' )) {
     include( $php_email_form );
   } else {
     die( 'Unable to load the "PHP Email Form" Library!');
